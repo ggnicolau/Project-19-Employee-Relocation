@@ -75,7 +75,7 @@ The **objective** is to find out how we can fill the gaps in human resources for
 _1)_ To date, _1617 employees_ (CPFs) have worked at the company, divided into the following areas:
 
 <div align="center">
-<img src="https://github.com/ggnicolau/Project-17-Constitutions/blob/main/constitutional_clustering.png">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/funcion%C3%A1rios_por_setor_eng.png>
 </div>
 
 _2)_ The sectors that are least able to retain employees are _People_ and _Finance_ (almost half of the people left the sector or the company):
@@ -87,32 +87,28 @@ _2)_ The sectors that are least able to retain employees are _People_ and _Finan
 _3)_ Over time, many more employees were hired in the areas of operations, commercial and also, a little less, in the logistics sector; the rest remained more or less at the same level.
 
 <div align="center">
-<img src=funcionários_por_setor_por_período_eng.png>
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/funcion%C3%A1rios_por_setor_por_per%C3%ADodo_eng.png>
 </div>
 
 It is probably a sales company. It started its activities in 2017 with approximately 70 employees per sector, evenly distributed. Over the next two semesters, hiring took place in the sectors that matter most to the business, such as operations and commercial (~600 employees) or logistics (~200 employees).
 
 _4)_ When we look at the rate of hiring (and layoffs) over the semesters, we can see that the second semester was when more people were hired, focusing on the operations and commercial areas. In the following semester, he was hired mainly in the logistics sector.
 
-![](RackMultipart20220705-1-oczruf_html_8c0259b536eed18d.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/tx_contrata%C3%A7%C3%A3o_por_setor_por_per%C3%ADodo_eng.png>
+</div>
 
 We can have a clearer view when we look at the accumulated rate of hiring between the second and last semester:
 
-![](RackMultipart20220705-1-oczruf_html_549fbbe3ce277a4e.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/tx_contrata%C3%A7%C3%A3o_acumulada_por_setor_por_per%C3%ADodo_eng.png>
+</div>
 
 _5)_ The other sectors remained practically stable in terms of the number of employees. The financial area, however, is the most unstable among the sectors; the total number of employees decreased in all periods, but there was a large circulation of employees – with a total of 84, but only 68 in the last period, while there were 77 in the first semester.
 
-**Period Operations Commercial Logistics Financial People**
-
-_2nd 2017_ 79 63 69 79 63
-
-_1st 2018_ 407 364 73 77 67
-
-_2nd 2018_ 615 583 236 77 66
-
-_1st 2019_ 611 577 231 68 60
-
-_Total\_CPFs 630 591 720 84 82_
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/data/table1.png>
+</div>
 
 ##
 
@@ -120,7 +116,7 @@ _Total\_CPFs 630 591 720 84 82_
 
 ## PART 2: Performance _per_ Area
 
-We already knowThe company&#39;s business revolves around sales and commerce, concentrating most of its human resources in these sectors, as well as the logistics necessary for the operational engineering of this process. On the other hand, we also know that some areas are having difficulty retaining their employees. From the analysis of the employees&#39; performance, we can know how to take better advantage of them in a way that leaves them satisfied, as well as translates into results for the company.
+We already know the company&#39;s business revolves around sales and commerce, concentrating most of its human resources in these sectors, as well as the logistics necessary for the operational engineering of this process. On the other hand, we also know that some areas are having difficulty retaining their employees. From the analysis of the employees&#39; performance, we can know how to take better advantage of them in a way that leaves them satisfied, as well as translates into results for the company.
 
 Users&#39; performance was classified from 1 to 3. With this we can identify employees who have obtained persistent unsatisfactory results over time and observe in their psychometric test if their skills are in accordance with the area or if it is better to transfer to another sector. Sometimes your best skills are underutilized and can be put to better use elsewhere.
 
@@ -128,11 +124,9 @@ Let&#39;s first look at the distribution of user performance by different sector
 
 1. _Operations:_
 
-![](RackMultipart20220705-1-oczruf_html_852b2465d4a721ec.png)
-
-![](RackMultipart20220705-1-oczruf_html_7b0e476d5a8d8496.png)
-
-![](RackMultipart20220705-1-oczruf_html_9e781f692d8e2dcb.png) ![](RackMultipart20220705-1-oczruf_html_679aa591c78f8a5f.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/operations.png>
+</div>
 
 Observing 4 semesters, we notice that there is a period of progressive stabilization, from bad and generalized results in the first semester, until something regular. It is in the last two semesters that we notice a normal distribution. It is natural that the largest number of workers are at level 2, as this is the average we take as a standard for evaluating edges. However, we noticed that, despite the small increase in the number of employees, in the last semester the average increased and the proportion of employees with excellent performance (3) decreased to the same extent as those with poor performance (1).
 
@@ -140,9 +134,9 @@ We could then observe which employees had poor performance and some who had aver
 
 1. _Commercial_:
 
-![](RackMultipart20220705-1-oczruf_html_ad3ddc124e698413.png) ![](RackMultipart20220705-1-oczruf_html_8cfa435ff6323ca9.png)
-
-![](RackMultipart20220705-1-oczruf_html_7919c3086635b33.png) ![](RackMultipart20220705-1-oczruf_html_6f8890c90bada997.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/commercial.png>
+</div>
 
 In the commercial sector, practically the same logic was followed as in the operations sector. Probably after a period of adaptation and organization of the sector, the many employees who were hired in the sector for the initial period were adapting; In the end, there is a normal distribution of the performance of the sector&#39;s employees, with a little more prevalence of excellent performances over poor performances.
 
@@ -150,9 +144,9 @@ As in Operations, we could see which employees had poor performance and some who
 
 1. _Logistics_:
 
-![](RackMultipart20220705-1-oczruf_html_1046c7bdb8f53509.png) ![](RackMultipart20220705-1-oczruf_html_9374ba0a1f1b04b6.png)
-
-![](RackMultipart20220705-1-oczruf_html_c5a94e074c4b2ccf.png) ![](RackMultipart20220705-1-oczruf_html_e7233a9bbc1053b4.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/logistics.png>
+</div>
 
 In logistics, our third largest area of ​​human resources commitment, the logic of progressive regularization of performances over the semesters was also followed. However, it is evident that there is an inefficiency in human resources. Although there are a good number of high-performing workers (3), it is the number of low-performing workers (1) that is of concern. Probably the grades are adequate, since it is an area that allows a more objective evaluation of the results.
 
@@ -160,9 +154,9 @@ This is the most relevant sector that we currently have and that requires interv
 
 1. _Finance_:
 
-![](RackMultipart20220705-1-oczruf_html_97458ac041a27625.png) ![](RackMultipart20220705-1-oczruf_html_6f2fe851214d4f49.png)
-
-![](RackMultipart20220705-1-oczruf_html_7b5ea44bdd580e28.png) ![](RackMultipart20220705-1-oczruf_html_7ae16fe929d93200.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/finance.png>
+</div>
 
 Finance is part of the two minority areas of the company, which is common in administrative areas. Also, performance evaluation can be more difficult to evaluate, because the results criteria are more intersubjective or also sensitive to externalities that are beyond the company&#39;s control. Also for this reason, it can be an area where there is greater circulation.
 
@@ -170,31 +164,23 @@ Our case is worrying. She never stabilized. It does not have any employee with o
 
 1. _People_:
 
-![](RackMultipart20220705-1-oczruf_html_43199a1d6de70b12.png) ![](RackMultipart20220705-1-oczruf_html_cc6b03bf5ec6400b.png)
-
-![](RackMultipart20220705-1-oczruf_html_e5adbbfd41ce218c.png) ![](RackMultipart20220705-1-oczruf_html_bb284fc7c9058565.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/people.png>
+</div>
 
 It is the smallest sector of the company. It is usually more difficult to evaluate results, but we have more and more objective criteria for the sector. It has stabilized over the semesters, but still has a fair amount of poor performance compared to the amount of excellent performances. It also allows observing the relocation of these employees, but it already has few people and a lot of circulation.
 
 ## PARTE 3: Skills and Realocation
 
-1. _Skill_
+1. _Skills_
 
 The company&#39;s employees answered psychometric questionnaires in which we can assess their various skills such as Reasoning, Social, Motivational and Cultural/Educational level. Through this data, we can create scores that allow **(a)** to objectively identify which skills are most required by area; **(b)** identify which are the possible reallocations, crossing with the performances of the workers and their respective current areas.
 
 Observing the data, the best way we found was to look for the median of each of the _skills_ by area, in order to identify what is the highlight that is given by a reasonable worker to the area that differs from other areas._We also know that our most urgent area to watch is the_ **financial** , due to the poor performance that has not been resolved over time and the short stay of employees.
 
-**Area Potential\_Gross Reasoning Social Motivational Culture**
-
-1 _operations_ 51.24 49.56 50.82 51.56 44.62
-
-2 _commercial_ 50.47 55.79 47.53 51.56 42.03
-
-3 _logistics_ 54.59 56.15 50.82 54.15 47.65
-
-4 _financial_ 50.43 52.67 54.12 51.56 50.52
-
-5 _people_ 49.89 53.39 54.11 51.56 51.11
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/data/table2.png>
+</div>
 
 Thus, we observe that the highest cultural level is that of **people** followed by **financial** (urgent), requiring people with a higher educational level from other sectors to be relocated. In fact, the average employee most similar _across skills_ to **finance** is in the **people**. The jobs probably have a similar profile (more administrative), have similar number of employees, skills, educational level. A point of attention is that the people sector could also improve with some adjustments; another point is that, since both sectors have few employees, it is riskier to reallocate and transfer responsibilities.
 
@@ -209,27 +195,23 @@ We tried to create a simple recommender system to automate relocation using a KN
 
 We were able to verify the problem in the data just when we produced our model and tried to visualize it with our vectors (employees + skills) in a two-dimensional space. We can observe that the skill scores of our employees are all quite close or almost random, not translating into a good segregation to form clusters and therefore making it difficult to automate the identification of the best area for each employee (we can observe that we do not have well defined boundaries in our data).
 
-![](RackMultipart20220705-1-oczruf_html_6b511f874b63a91.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/distribution%20(1).png>
+</div>
 
 Our initial goal was to use the KNN model so that we could find employees who were on the boundary (_decision boundaries_) with other clusters, close to similar colleagues. The algorithm makes the prediction of each point by the similarity with the other points (nearest neighbors) using distance calculation (we use cosine similarity). For those on the frontier, the algorithm chooses a tiebreaker (there is no unclassified data point). When we ask to predict our data after the model is trained, as it uses distance calculation for prediction, it can sometimes break a tie by suggesting another classification that is not the original data point (in our case this would not exactly be an error) .
 
 We then found 4 model suggestions for reallocation to the financial sector (our urgent area). Their scores are:
 
-**Reasoning Culture Motivational Gross Potential Social Area Relocation**
-
-42.74 48.54 51.56 51.23 60.7 Commercial _Financial_
-
-31.52 72.07 77.53 45.17 37.65 Operations _Financial_
-
-47.06 53.52 56.75 42.73 27.78 Operations _Financial_
-
-22.96 52.73 41.17 26.89 21.19 Commercial _Financial_
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/data/table3.png>
+</div>
 
 As we can see, these are not adequate scores to improve the performance of a sector that is in trouble. Also, we don&#39;t believe we can trust the data for a good recommendation model. We understand that the best approach would not be through machine learning, but through an analytical task of interpreting the data.
 
 1. _RESULTS: Relocation_
 
-1. _Experienced Employees_
+(a) _Experienced Employees_
 
 Our first proposal is to look for company employees who had a _bad performance_ ( **1** ) in the last semester, but who have an educational level (_Culture_) and _Reasoning_ greater than **50 points**. We believe that these are candidates who have the capacity to deliver more - and are closer to the demands of our most urgent areas and with few employees (financial and people).
 
@@ -237,33 +219,35 @@ To speed up the work of finding the best candidates among our list, we sort firs
 
 _With that alone we were able to return_ _**35**_ _possible candidates_. This is already a reasonable number for us to contact and evaluate the possibility of relocation. The ideal would be to seek employees from areas with more human resources, such as Operations, Commercial and Logistics, so as not to weaken smaller areas such as Finance and People. Below is the list ordered by importance to search for candidates:
 
-![](RackMultipart20220705-1-oczruf_html_8c3939bf75c1fe46.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/data/sompic.png>
+</div>
 
-1. _New Employees_
+(b) _New Employees_
 
 We also chose to investigate new employees who have not yet had their performance evaluated. We believe that we can find promises that may be interested in a career acceleration program, given their skills and background. These professionals with great potential can compose the teams that will be restructured with more experienced employees of the company, in the sectors that demand this, such as Finance.
 
 Since we have a complete profile of some, we identify those that have raw potential as a promise in the company. We found 13 candidates who are our promises and can be trained in the new teams:
 
-![](RackMultipart20220705-1-oczruf_html_c2b5c8eb967e2e00.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/data/mytable_4.png>
+</div>
 
 ##
 
-## We also separated another 6 promises that we do not have their complete profiles, but that have a rare highlight in essential skills such as Reasoning and Culture, with scores always above 70% (very above average)
+We also separated another 6 promises that we do not have their complete profiles, but that have a rare highlight in essential skills such as Reasoning and Culture, with scores always above 70% (very above average)
 
 ##
 
-## ![](RackMultipart20220705-1-oczruf_html_802f5c7f6ae7afc7.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/data/mytable_3.png>
+</div>
 
 ##
 
 ## CONCLUSION: Recommendations for Future Work
 
-_Our first recommendation is to_ _**collect**_ _data and strengthen a data-centric culture_. It is important to understand _why_ workers do not finish _surveys_ and important columns are practically incomplete. Perhaps another approach is needed to ensure. It is also necessary that the _surveys_ are created with the help of the analysts and data scientists who will use them, to identify what and in what way is best to be collected
-
-# 2
-
-. In addition, this approach allows for a better understanding and confidence in the data when it is analyzed, so that it can always be validated; with this we can have material for _verification and falsification of hypotheses based_ on the ability to reproduce experiments (reproducibility). Another important point is to create _**documentation**_ to allow standardization in the interpretation of data and continuity of analysis in a way that is less dependent on people. It is also necessary to _**standardize the data**_ and the database to facilitate the work.
+_Our first recommendation is to_ _**collect**_ _data and strengthen a data-centric culture_. It is important to understand _why_ workers do not finish _surveys_ and important columns are practically incomplete. Perhaps another approach is needed to ensure. It is also necessary that the _surveys_ are created with the help of the analysts and data scientists who will use them, to identify what and in what way is best to be collected. In addition, this approach allows for a better understanding and confidence in the data when it is analyzed, so that it can always be validated; with this we can have material for _verification and falsification of hypotheses based_ on the ability to reproduce experiments (reproducibility). Another important point is to create _**documentation**_ to allow standardization in the interpretation of data and continuity of analysis in a way that is less dependent on people. It is also necessary to _**standardize the data**_ and the database to facilitate the work.
 
 _Once we have good data, we can move forward on attempts that have not yet been successful_. We can, for example, **identify exactly which CPFs are reliable candidates** for relocation and not just suggest which areas they might come from.
 
@@ -274,28 +258,6 @@ _Finally, in the long term, a data culture would enable machine learning enginee
 [1](#sdfootnote1anc) To consult these notes and others, open the Notebooks provided in the annex. Unfortunately, we haven&#39;t had the opportunity to refactor and modularize the code for better understanding and reproducibility, but you can find some explorations and insights in this POC (_Proof-of-Concept_). We chose here, therefore, to take advantage of the data that are most worked on and available, such as Culture and Reasoning, so as not to lose employees for relocation analysis. Also, both variables are important for reallocation to our most urgent sector: finance.
 
 [2](#sdfootnote2anc) We believe, for example, that it would be interesting to incorporate basic data such as gender, color, sexual orientation, origin, to observe the plurality of teams or even encourage them, reaping the benefits of diversity.
-
-
-## Results
-<div align="center">
-<img src="https://github.com/ggnicolau/Project-17-Constitutions/blob/main/constitutional_clustering.png">
-</div>
-
-## Technical Articles
-DATA
-1) https://www.constituteproject.org/constitutions?lang=en
-
-CLUSTERING
-1) http://brandonrose.org/clustering_mobile
-2) https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04
-3) https://medium.com/data-hackers/text-analytics-nlp-utilizando-python-aa902c338fe8
-
-
-## Other Projects on Politics:
-* https://github.com/ggnicolau/Project-5-NLP-SP-City-Hall
-* https://github.com/ggnicolau/Project-9-NER-SP-City-Hall
-* https://github.com/ggnicolau/Project-2-API_Secretaria-da-Fazenda
-* https://github.com/ggnicolau/Project-10-TuneLDA-SP-City-Hall
 
 ## Version
 
