@@ -155,7 +155,7 @@ This is the most relevant sector that we currently have and that requires interv
 1. _Finance_:
 
 <div align="center">
-<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/finance.png>
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/financial.png>
 </div>
 
 Finance is part of the two minority areas of the company, which is common in administrative areas. Also, performance evaluation can be more difficult to evaluate, because the results criteria are more intersubjective or also sensitive to externalities that are beyond the company&#39;s control. Also for this reason, it can be an area where there is greater circulation.
