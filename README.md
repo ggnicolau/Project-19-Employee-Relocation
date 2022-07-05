@@ -64,16 +64,6 @@ squarify
 #### Services
 * Github
 
-## Introduction
-
-# CASE REPORT FOR HUMAN RESOURCES
-
-_**Guilherme Giuliano Nicolau**_
-
-_**Data Scientist**_
-
-_**PhD in Political Science (USP)**_
-
 ## INTRODUCTION
 
 Our **business problem** is about the need to improve the efficiency of human resources of a specific company using quantitative and computational approaches. For this, psychometric data were collected from employees from different areas of the company, in addition to the evaluation of their individual performances each semester.
