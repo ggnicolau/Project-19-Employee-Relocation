@@ -1,6 +1,6 @@
  <div align="center">
 <img src="https://coursereport-production.imgix.net/uploads/school/logo/84/original/logo-ironhack-blue.png?w=200&h=200&dpr=1&q=75">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0OPgRAs3027QxPjMtXI-1UtLxObz5x6rpvb5bVfEASQJ19fs9Bi14CLOOwwhtJoYXw&usqp=CAU">
+<img src="https://www.icmc.usp.br/noticias/5122-o-icmc-completara-50-anos-em-2021-e-ja-comecamos-os-preparativo">
 </div>
 
 
@@ -13,11 +13,7 @@
 ---
 <div align="center">
 
-[![Created Badge](https://badges.pufler.dev/created/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/ggnicolau/Project-16-Assuntos-por-Secretaria-da-Prefeitura-Sao-Paulo)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ggnicolau)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ggnicolau)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/ggnicolau)](https://badges.pufler.dev)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=ggnicolau.visitor-badge)](https://badges.pufler.dev)
 [![ggnicolau StackOverflow](https://stackoverflow-badge.vercel.app/?userID=15673147)](https://stackoverflow.com/users/15673147/ggnicolau)
 
 ![+5511976431347](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
