@@ -41,13 +41,13 @@
 
 #### Libraries
 
-pandas
-numpy
-sklearn
-matplotlib
-seaborn
-plotly
-squarify
+* pandas
+* numpy
+* sklearn
+* matplotlib
+* seaborn
+* plotly
+* squarify
 
 #### Technologies
 * Python version  3.9
