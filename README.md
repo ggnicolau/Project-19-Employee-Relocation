@@ -74,15 +74,21 @@ The **objective** is to find out how we can fill the gaps in human resources for
 
 _1)_ To date, _1617 employees_ (CPFs) have worked at the company, divided into the following areas:
 
-![](RackMultipart20220705-1-oczruf_html_73f3dafb6b08ac36.png)
+<div align="center">
+<img src="https://github.com/ggnicolau/Project-17-Constitutions/blob/main/constitutional_clustering.png">
+</div>
 
 _2)_ The sectors that are least able to retain employees are _People_ and _Finance_ (almost half of the people left the sector or the company):
 
-![](RackMultipart20220705-1-oczruf_html_c7a0016c0a61ab7d.png)
+<div align="center">
+<img src=https://github.com/ggnicolau/Project-19-Employee-Relocation/blob/main/pictures/demiss%C3%B5es_por_setor_eng.png>
+</div>
 
 _3)_ Over time, many more employees were hired in the areas of operations, commercial and also, a little less, in the logistics sector; the rest remained more or less at the same level.
 
-![](RackMultipart20220705-1-oczruf_html_b63e24374c75bb09.png)
+<div align="center">
+<img src=funcionários_por_setor_por_período_eng.png>
+</div>
 
 It is probably a sales company. It started its activities in 2017 with approximately 70 employees per sector, evenly distributed. Over the next two semesters, hiring took place in the sectors that matter most to the business, such as operations and commercial (~600 employees) or logistics (~200 employees).
 
